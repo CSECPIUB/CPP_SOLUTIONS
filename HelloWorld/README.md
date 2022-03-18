@@ -2,7 +2,7 @@
 Basic Hello World program written by @itexpert120
 
 ```cpp 
-// main.exe
+// main.cpp
 // Hello, world! Program in C++
 // Author Zeeshan Ahmad (@itexpert120)
 
