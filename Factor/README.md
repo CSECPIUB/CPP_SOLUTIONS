@@ -3,7 +3,7 @@
 
 ```cpp 
 // main.cpp
-// Print if 2nd number id factor of 1st in C++
+// Print if 2nd number is factor of 1st in C++
 // Author Crimson Codes (@ICrimsonCodes)
 
 #include <iostream>
