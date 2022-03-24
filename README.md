@@ -7,4 +7,5 @@ Solutions to C++: How to Program
 * [FizzBuzz](https://github.com/CSECPIUB/CPP_SOLUTIONS/tree/main/FizzBuzz)
 * [GreatestAmong3](https://github.com/CSECPIUB/CPP_SOLUTIONS/tree/main/GreatestAmong3)
 * [HelloWorld](https://github.com/CSECPIUB/CPP_SOLUTIONS/tree/main/HelloWorld)
+* [IntegerEquivalentofCharacter](https://github.com/CSECPIUB/CPP_SOLUTIONS/tree/main/IntegerEquivalentofCharacter)
 * [PrintShapes](https://github.com/CSECPIUB/CPP_SOLUTIONS/tree/main/PrintShapes)
