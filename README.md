@@ -10,3 +10,4 @@ Solutions to C++: How to Program
 * [HelloWorld](https://github.com/CSECPIUB/CPP_SOLUTIONS/tree/main/HelloWorld)
 * [IntegerEquivalentofCharacter](https://github.com/CSECPIUB/CPP_SOLUTIONS/tree/main/IntegerEquivalentofCharacter)
 * [PrintShapes](https://github.com/CSECPIUB/CPP_SOLUTIONS/tree/main/PrintShapes)
+* [Table](https://github.com/CSECPIUB/CPP_SOLUTIONS/tree/main/Table)
